@@ -1,9 +1,0 @@
-body {
-  background: linear-gradient(to right, #333, #555);
-}
-
-.centering {
-  justify-content: center;
-  align-items: center;
-  height: 500px;
-}
